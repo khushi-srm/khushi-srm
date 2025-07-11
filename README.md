@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on and learning **HAProxy server configuration,Linux,shell scripting**
+- 🔭 I’m currently working on and learning **HAProxy server configuration , Linux , shell scripting**
 
 - 👯 Also working on **Web development Projects**
 
-- 💬 Ask me about **C,C++,SQL,Python,Web development...etc**
+- 💬 Ask me about **C programming , C++ programming , SQL , Python , Web development...etc**
 
 
 
