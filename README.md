@@ -4,7 +4,6 @@
 <h3 align="center">A passionate Web developer from Noida. I have receently completed my B.Tech in Computer Science & Engineering.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi-srm" alt="khushi-srm" /></a> </p>
 
 - 🔭 I’m currently working on and learning **HAProxy server configuration,Linux,shell scripting**
 
