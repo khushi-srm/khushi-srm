@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Khushi Sharma</h1>
-<h3 align="center">A passionate Web developer from Noida. I have recently completed my B.Tech in Computer Science & Engineering.</h3>
+<h3 align="center">A passionate Web developer from Noida,India. I have recently completed my B.Tech in Computer Science & Engineering.</h3>
 
 
 
