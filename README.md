@@ -9,7 +9,7 @@
 
 - 👯 Also working on **Web development Projects**
 
-- 💬 Ask me about **C programming , C++ programming , SQL , Python , Web development...etc**
+- 💬 Ask me about **C programming , C++ programming , DSA , SQL , Python , OS , DBMS , CN , Web development...etc**
 
 
 
