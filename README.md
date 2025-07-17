@@ -9,7 +9,7 @@
 
 - 👯 Also working on **Web development Projects**
 
-- Portfolio [shimmering-babka-f7a079.netlify.app/](shimmering-babka-f7a079.netlify.app/)
+- Portfolio [shimmering-babka-f7a079.netlify.app/](https://shimmering-babka-f7a079.netlify.app/)
 
 - 💬 Ask me about **C programming , C++ , DSA , SQL , Python , OS , DBMS , CN , Web development...etc**
 
